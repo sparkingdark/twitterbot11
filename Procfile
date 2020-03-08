@@ -1,1 +1,1 @@
-worker: node retweetbot.js
+worker: pm2 node retweetbot.js
