@@ -1,5 +1,9 @@
 {
    "name": "darkcoderbot",
-  "version": "1.0.0",
-  "main": "retweetbot.js"
-  }
+   "version": "1.0.0",
+   "main": "retweetbot.js",
+   "dependencies": {
+      "pm2": "^4.2.3",
+      "twit": "^2.2.11"
+   }
+}
