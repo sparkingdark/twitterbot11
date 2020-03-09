@@ -1,1 +1,1 @@
-worker: node retweetbot.js
+worker: npm start
